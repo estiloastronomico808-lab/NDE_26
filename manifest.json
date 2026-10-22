@@ -1,0 +1,18 @@
+{
+  "name": "Noche de las Estrellas 2026 – Sedes",
+  "short_name": "Noche Estrellas",
+  "description": "Encuentra la sede más cercana de la Noche de las Estrellas 2026 y consulta sus actividades.",
+  "lang": "es-MX",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": ["education", "events"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
